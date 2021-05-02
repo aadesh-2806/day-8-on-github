@@ -28,7 +28,7 @@ void main()
 			{
 				printf("yes");
 				goto abc;
-			}
+			} 
 			j++;
 		}
 		i++;
