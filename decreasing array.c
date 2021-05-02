@@ -32,7 +32,7 @@ void main()
 			b[j]=a[i];
 			c[s]=a[i+1]+1;
 			a[i]=c[s];
-			i++;
+			i++; 
 			j++;
 			s++;
 		}
