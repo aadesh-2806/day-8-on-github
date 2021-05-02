@@ -4,7 +4,7 @@ int main()
 {
 	int i,n,a[50],k;
 	//clrscr();
-	printf("Welcome aadesh agrawal(2019uec1660)\nEnter no,of values=");
+	printf("Enter no,of values=");
 	scanf("%d",&n);
 
 	for(i=0;i<n;i++)
